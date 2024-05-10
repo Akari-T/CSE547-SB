@@ -1,3 +1,5 @@
+CSE547 Project Version of SeisBench!!!!!!!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/seisbench/seisbench/main/docs/_static/seisbench_logo_subtitle_outlined.svg" />
 </p>
