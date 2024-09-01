@@ -1,4 +1,4 @@
-CSE547 Project Version of SeisBench!!!!!!!
+# CSE547 Project Version of SeisBench!!!!!!! THIS IS NOT THE ORIGINAL!!!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/seisbench/seisbench/main/docs/_static/seisbench_logo_subtitle_outlined.svg" />
